@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextRPGApplication", "TextRPGApplication\TextRPGApplication.csproj", "{836A4A02-5E51-492B-8712-1A32696B0E7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextRPG.Logic", "TextRPG.Logic\TextRPG.Logic.csproj", "{B9B00224-CAE0-4EB8-9B88-54388B72AD6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextRPG.Entities", "TextRPG.Entities\TextRPG.Entities.csproj", "{074836AC-8568-443D-AD0C-8ADAA790A2F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextRPG.Tests", "TextRPG.Tests\TextRPG.Tests.csproj", "{07C38495-CF8D-4468-AB25-8DAE04077AC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{836A4A02-5E51-492B-8712-1A32696B0E7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{836A4A02-5E51-492B-8712-1A32696B0E7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{836A4A02-5E51-492B-8712-1A32696B0E7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{836A4A02-5E51-492B-8712-1A32696B0E7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9B00224-CAE0-4EB8-9B88-54388B72AD6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9B00224-CAE0-4EB8-9B88-54388B72AD6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9B00224-CAE0-4EB8-9B88-54388B72AD6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9B00224-CAE0-4EB8-9B88-54388B72AD6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{074836AC-8568-443D-AD0C-8ADAA790A2F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{074836AC-8568-443D-AD0C-8ADAA790A2F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{074836AC-8568-443D-AD0C-8ADAA790A2F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{074836AC-8568-443D-AD0C-8ADAA790A2F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07C38495-CF8D-4468-AB25-8DAE04077AC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07C38495-CF8D-4468-AB25-8DAE04077AC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07C38495-CF8D-4468-AB25-8DAE04077AC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07C38495-CF8D-4468-AB25-8DAE04077AC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09F7611E-2F83-44E8-90B2-041A7A17833F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "836a4a02-5e51-492b-8712-1a32696b0e7c": {
+      "ProjectGuid": "836a4a02-5e51-492b-8712-1a32696b0e7c",
+      "DisplayName": "TextRPGApplication",
+      "ColorIndex": 0
+    },
+    "b9b00224-cae0-4eb8-9b88-54388b72ad6d": {
+      "ProjectGuid": "b9b00224-cae0-4eb8-9b88-54388b72ad6d",
+      "DisplayName": "TextRPG.Logic",
+      "ColorIndex": 1
+    },
+    "074836ac-8568-443d-ad0c-8adaa790a2f4": {
+      "ProjectGuid": "074836ac-8568-443d-ad0c-8adaa790a2f4",
+      "DisplayName": "TextRPG.Entities",
+      "ColorIndex": 2
+    },
+    "07c38495-cf8d-4468-ab25-8dae04077ac2": {
+      "ProjectGuid": "07c38495-cf8d-4468-ab25-8dae04077ac2",
+      "DisplayName": "TextRPG.Tests",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
